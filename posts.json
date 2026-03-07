@@ -16,8 +16,18 @@
     "date": "2026-03-07T10:00:00.000Z",
     "category": "Lokal",
     "url": ""
+},
+  {
+    "id": "2026-03-07-polizei-berlin",
+    "title": "Gewalt und Raubdelikte in Berlin: Die aktuellen Polizeimeldungen",
+    "teaser": "Von Raubüberfällen in Pankow und Marzahn bis hin zu einer Messerattacke am Alexanderplatz – die Berliner Polizei meldet mehrere schwere Vorfälle vom Wochenende.",
+    "content": "In Berlin kam es am vergangenen Tag zu mehreren schweren Straftaten. In Pankow wurden vier Jugendliche von einer ca. 30-köpfigen Gruppe bedroht und beraubt, wobei die Täter teilweise Fankleidung von Union Berlin trugen. In Marzahn wurde ein 43-jähriger Mann in eine Wohnung gelockt und dort mit einer Schusswaffe zur Herausgabe seiner PIN gezwungen. Ein weiterer Vorfall ereignete sich am S-Bahnhof Alexanderplatz, wo ein 25-Jähriger bei einem Messerangriff schwer verletzt und notoperiert werden musste. Zudem ermittelt der Staatsschutz in Marzahn, nachdem ein Mann den Hitlergruß zeigte und eine Beamtin außer Dienst mit Farbe attackierte. In allen Fällen laufen die Ermittlungen der zuständigen Direktionen.",
+    "date": "2026-03-07T15:30:00.000Z",
+    "category": "Blaulicht",
+    "url": "https://www.berlin.de/polizei/polizeimeldungen/"
 }
 ]
+
 
 
 
