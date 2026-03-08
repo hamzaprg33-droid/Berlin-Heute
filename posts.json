@@ -16,8 +16,18 @@
     "date": "2026-03-07T15:30:00.000Z",
     "category": "Blaulicht",
     "url": "https://www.berlin.de/polizei/polizeimeldungen/"
-}
+},
+  {
+    "id": "2026-03-08-frauentag-berlin",
+    "title": "Internationaler Frauentag: Berlin feiert und demonstriert",
+    "teaser": "Heute am 8. März ist Berlin im Ausnahmezustand: Als einziges Bundesland feiert die Hauptstadt den Frauentag als gesetzlichen Feiertag mit zahlreichen Events und Demos.",
+    "content": "Ganz Berlin steht heute im Zeichen der Gleichberechtigung. Da der 8. März in der Hauptstadt ein gesetzlicher Feiertag ist, bleiben Geschäfte und Schulen geschlossen. Unter dem Motto 'Heraus zum 8. März' ziehen seit dem Mittag mehrere tausend Menschen durch Berlin-Mitte und Kreuzberg, um für Frauenrechte und gegen Diskriminierung zu demonstrieren. Neben den großen Kundgebungen gibt es in vielen Bezirken kulturelle Veranstaltungen, Lesungen und Workshops. Die Polizei berichtet bisher von einer friedlichen Stimmung, weist jedoch auf großräumige Verkehrsbehinderungen im Bereich Unter den Linden und rund um den Alexanderplatz hin.",
+    "date": "2026-03-08T13:30:00.000Z",
+    "category": "Kultur",
+    "url": "https://www.berlin.de"
+  }
 ]
+
 
 
 
